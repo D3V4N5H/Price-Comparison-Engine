@@ -1,6 +1,6 @@
-#Price Comparison Engine
+# Price Comparison Engine
 
-##About
+## About
 
 Startup Village, the best incubator in the country, selected our team after we submitted this version of Price Comparison Engine as a part of the coding challenge.
 
@@ -12,7 +12,7 @@ Primarily uses PHP and PriceTree API.
 
 A professor recommended using a thin HTML client for fetching and crawling but we didn't get to test one out.
 
-##Instructions to Deploy
+## Instructions to Deploy
 
 Make sure you have active internet connection
 Just import by uploading the contents of public_html to your host's public_html
